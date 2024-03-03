@@ -60,9 +60,7 @@
 
 <h2 align="left">📫 Get in Touch</h2>
 
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <kbd>
   <a href="mailto:keshavgirase007@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
@@ -84,9 +82,9 @@
   </a>
   </kbd>
 </div>
+<br>
 
-
-
+<details>
 <h2 align="left"></h2>
 
 
@@ -99,6 +97,7 @@
 </div>
 
 ###
+</details>
 <!---
 Keshav-girase/Keshav-girase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
