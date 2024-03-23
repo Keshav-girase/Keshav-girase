@@ -25,14 +25,14 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40"><br>Java</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40"><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40"><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"><br>JavaScript</td>
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"><br>JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" alt="JavaScript" width="40"><br>Bootstrap</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="JavaScript" width="40"><br>Tailwind</td>
     <td align="center"><img src ="https://skillicons.dev/icons?i=mysql" alt="JavaScript" width="40"><br>MySql</td>
     <td align="center"><img src ="https://skillicons.dev/icons?i=express" alt="JavaScript" width="40"><br>Express.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40"><br>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40"><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40"><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40"><br>MongoDB</td> -->
   </tr>
 </table>
 
